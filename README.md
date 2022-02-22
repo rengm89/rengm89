@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rengm89
-- 🌱 I’m currently learning Visual Basic, SQL Server, JavaScript 
+- 🌱 I’m currently learning Visual Basic, SQL Server,HTML,CSS, JavaScript and Java.  
 - 📫 How to reach me ... renzogiraudomiani@gmail.com
 
 
